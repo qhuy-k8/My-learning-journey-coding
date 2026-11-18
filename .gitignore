@@ -1,0 +1,10 @@
+.vscode/
+
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+Thumbs.db
+desktop.ini
